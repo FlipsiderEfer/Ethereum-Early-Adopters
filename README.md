@@ -1,8 +1,11 @@
-# [Ethereum Early Adopters - By FlipsiderEfer](https://flipsidecrypto.xyz/efer/time-efficient-ethereum-early-adopter-checker-Sw4OwW)
+# [🏖 Ethereum Early Adopters - By FlipsiderEfer](https://flipsidecrypto.xyz/efer/time-efficient-ethereum-early-adopter-checker-Sw4OwW)
 
 Dashboard on Flipside: https://flipsidecrypto.xyz/efer/time-efficient-ethereum-early-adopter-checker-Sw4OwW
 
 <a href="[https://discord.com/users/884237515601621072](https://flipsidecrypto.xyz/efer/time-efficient-ethereum-early-adopter-checker-Sw4OwW)" target="_blank">![Flipside Dashboard](https://badgen.net/static/Dashboard%20On/Flipside/black)</a>
+
+---
+### 🧶 You can find queries [here](https://github.com/FlipsiderEfer/Ethereum-Early-Adopters/tree/main/Queries).
 
 ---
 
