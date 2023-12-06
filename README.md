@@ -16,8 +16,8 @@ The `number_of_contracts` indicates the count of contracts you've interacted wit
 
 Just search your address through the files in the table or go to the dashboard mentioned above.
 
-| File Name                         | Size  | Records          | Details                                              |
-|-----------------------------------|-------|------------------|------------------------------------------------------|
+| File Name                         | Size  | Records           | Details                                             |
+|-----------------------------------|-------|-------------------|-----------------------------------------------------|
 | [Batch 1](./Assets/Batch_1.json)  | ~2MB  | 43,099 Addresses  | Includes addresses start with 0x0, 0x1, 0x2, or 0x3 |
 | [Batch 2](./Assets/Batch_2.json)  | ~2MB  | 42,679 Addresses  | Includes addresses start with 0x4, 0x5, 0x6, or 0x7 |
 | [Batch 3](./Assets/Batch_3.json)  | ~2MB  | 42,723 Addresses  | Includes addresses start with 0x8, 0x9, 0xa, or 0xb |
