@@ -10,7 +10,7 @@ Dashboard on Flipside: https://flipsidecrypto.xyz/efer/time-efficient-ethereum-e
 ---
 
 Check your qualification for the "Ethereum Early Adopter" criteria. You can determine whether you qualify for the `Ethereum Early Adopter` condition or not.
-The `number_of_contracts` indicates the count of contracts you've interacted with as one of the first thousand addresses, and if this number is greater than 4, you are an Ethereum Early Adapter.
+The `number_of_contracts` indicates the count of contracts you've interacted with as one of the first thousand addresses, and if this number is greater than 4, you are an Ethereum Early Adopter.
 
 ---
 
